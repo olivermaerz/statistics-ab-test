@@ -1,0 +1,8 @@
+# pythos stuff
+.venv/
+
+# project stuff
+ab_data.csv
+rubric.md
+*.zip
+
